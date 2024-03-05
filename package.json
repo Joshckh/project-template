@@ -1,0 +1,26 @@
+{
+  "name": "Template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "webpack serve --open --mode development"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "css-loader": "",
+    "eslint": "",
+    "eslint-config-airbnb-base": "",
+    "eslint-config-prettier": "",
+    "eslint-plugin-import":"",
+    "html-webpack-plugin": "",
+    "style-loader": "",
+    "webpack": "",
+    "webpack-cli": "",
+    "webpack-dev-server": ""
+  }
+}
